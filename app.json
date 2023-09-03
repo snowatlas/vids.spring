@@ -1,0 +1,6 @@
+{
+    "name":"sha-device-seller",
+    "buildpacks":[
+        {"url": "heroku/java"}
+    ]
+}
